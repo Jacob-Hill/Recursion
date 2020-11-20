@@ -42,6 +42,7 @@ namespace Recursion
             Console.WriteLine(ChangeXY("yhiyhiy") == "xhixhix");
             Console.WriteLine(ChangeXY("yyhixx") == "xxhiyy");
             Console.WriteLine();
+            Console.WriteLine();
             Console.WriteLine("Done");
             Console.ReadLine();
         }
